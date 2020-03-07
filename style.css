@@ -1,0 +1,75 @@
+/* Colours anf fonts */
+body {
+    background: #D3C0D2;
+	color: black ;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p{padding-bottom: 10px}
+
+h1, h2, h3 {
+   font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: #444554; 
+  font-size: 32px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #14213D;
+}
+
+li{
+  list-style: none;
+  display: inline;
+  padding: 10px
+}
+
+ul{font-size: 30px}
+ul{padding-left: 0px}
+
+
+/* Custom design with class*/
+
+
+#container {
+  width: 900px;
+  margin: 50px auto;
+}
+.card-white {
+  background-color: white ;
+  padding: 40px ;
+  box-shadow: 3px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 5px;
+  margin: 30px ;
+  width: 800px;
+  text-align: center;
+}
+.img-circle {
+  border-radius: 50%;
+}
+.btn-orange {
+  background-color: #D3C0D2;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+
+#foot {height: 170px}
+#foot {width: 300px}
+#foot{ align-content: center; }
+
+
+
+
